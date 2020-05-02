@@ -1,0 +1,44 @@
+
+.contenu_questions{
+    background-color:white;
+    width:100%;
+    height:90%;
+    border-radius:5px;
+    padding-top:5%;
+    
+}
+label{
+    font-family: Open-Sans;
+    font-weight:bold;
+    font-size:20px;
+    color: rgb(51, 50, 50);
+} 
+textarea{
+    border-radius: 3px; 
+    border: rgb(117, 216, 208) 2px solid;
+
+}
+input{
+    height: 40px;
+    width:55%;
+    margin:15px 15px;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 18px;
+    color: rgb(248, 92, 1);
+    font-weight: bold;
+    border: rgb(117, 216, 208) 2px solid;
+}
+select {
+    height: 40px;
+    width:55%;
+    margin:15px 15px;
+    border-radius: 3px;
+    border: rgb(117, 216, 208) 2px solid;
+} 
+#icon-form{
+   padding:18px;
+   border-radius:5px;
+   background-image:url('../images/ic-ajout-reponse.png');
+   background-repeat:none;
+}

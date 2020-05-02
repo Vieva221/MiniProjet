@@ -1,0 +1,70 @@
+.bg-admin{
+    width:75%;
+    height:500px;
+    background-color:white;
+    margin:0 auto;
+    border-radius:5px;
+    margin-right:15px;
+}
+h2{
+    font-family:Open Sans;
+    color:#333333;
+}
+#pour_tester{
+    color:#92aea0;
+    margin-top:-15px;
+    font-size:14px;
+}
+.headerform{
+    margin-left:30px;
+}
+form{
+    margin-left:30px;
+}
+label{
+    font-size:13px;
+    color:#92aea0;
+}
+.input-admin{
+    padding:10px 10px;
+    width:60%;
+    border-radius:5px;
+}
+#button1{
+    background-color:#29c1b2;
+    color:white;
+    font-family:Open Sans;
+    border-radius:4px;
+    margin-left:30%;
+    padding:7px 7px;
+    width:20%;
+}
+#button2{
+    background-color:#29c1b2;
+    color:white;
+    font-family:Open Sans;
+    border-radius:4px;
+    margin-left:100px;
+    padding:8px 8px;
+    width:25%;
+}
+#avatarlabel{
+    color:black;
+    font-size:14px;
+    font-family:Open Sans;
+}
+.imgArrondie{
+    overflow:hidden;
+    -webkit-border-radius:90px;
+    -moz-border-radius:90px;
+    border-radius:90px;
+    width:130px;
+    height:130px;
+    border:4px solid #29c1b2;
+    margin-left:70%;
+    margin-top:-430px;
+}
+#avatarDescription{
+    margin-left:70%;
+    font-family:Open Sans;
+}
